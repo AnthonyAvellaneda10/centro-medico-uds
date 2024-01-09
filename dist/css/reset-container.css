@@ -1,0 +1,9 @@
+.container {
+    background-color: transparent !important;
+    box-shadow: none !important;
+}
+
+.btns-contain {
+    display: flex;
+    justify-content: space-around;
+}

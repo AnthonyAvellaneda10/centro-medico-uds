@@ -1,0 +1,21 @@
+.app-brand-link img {
+    width: 40px;
+}
+.app-brand-text.demo {
+    text-transform: uppercase !important;
+    font-size: 1.2rem !important;
+}
+
+.success-message {
+    font-size: 85%;
+    color: #198754;
+}
+.danger-message {
+    font-size: 85%;
+    color: #ff3e1d;
+}
+
+.warning-message {
+    font-size: 85%;
+    color: #bf8f00;
+}

@@ -1,0 +1,31 @@
+.layout-overlay {
+    cursor: auto!important;
+}
+.app-brand-text.demo {
+    font-size: 1.2rem !important;
+    text-transform: uppercase !important;
+}
+.c-blue {
+    color: #0000d1 !important;
+}
+.c-green {
+    color: #00cd89 !important;
+}
+.nav-item img {
+    width: 40px;
+    margin-right: 8px;
+}
+
+.nav-item p {
+    margin: 0;
+    font-size: 20px;
+    font-weight: 600;
+    text-transform: uppercase;
+}
+
+@media (max-width: 490px) {
+    .btns-contain {
+        flex-direction: column;
+        gap: 20px;
+    }
+}
